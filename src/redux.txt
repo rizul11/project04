@@ -1,0 +1,13 @@
+REDUX TOOLKIT 
+
+#It provides automatic support for redux devtools extensions.
+
+# It provides the support for Immer.js library which automatically changes the code immutably.
+
+# Configuring a redux store is much easier and built in support of middleware 
+
+# A createSlice() function that comes in handy to replace create action and create Reducer functions with a single function 
+
+# createAsyncThunk to make asynchronous requests
+
+# Every feature is a slice
